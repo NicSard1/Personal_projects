@@ -35,7 +35,10 @@ This project is an ultrasonic surveillance radar that uses an Arduino microcontr
 
 **Demo**
 1. **Video**
-   ![demonstration.mp4](demonstration.mp4)
+   ![Watch the video](demonstration.mp4)
+https://github.com/user-attachments/assets/3bcc2a5e-1be5-48c4-a6b3-eb492b27c036
+
+
 
 2. **Photo**
   ![photo](photo.png)
