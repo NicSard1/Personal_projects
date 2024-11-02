@@ -1,6 +1,6 @@
 # Surveillance Radar - Arduino Project
 
-**Date** 03/2024
+**Date :** 03/2024
 
 **Project Overview**
 
@@ -32,4 +32,11 @@ This project is an ultrasonic surveillance radar that uses an Arduino microcontr
 2. Connect the servo motor to digital pin 10.
 3. Upload the `RadarUltraSon_surveillance.ino` file to the Arduino.
 4. Launch the `Radar.pde` using the Processing IDE to visualize the radar scan data.
+
+**Demo**
+1. **Video**
+   ![demonstration.mp4](demonstration.mp4)
+
+2. **Photo**
+  ![photo](photo.png)
 
